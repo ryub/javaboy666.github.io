@@ -49,11 +49,10 @@ header:
       # @end locale config
     url: /about.html
 docs-zh:
-  - title:      导航示例
+  - title:      导航
     children:
       - title: Welcome
-        url: https://javaboy666.github.io/2018/07/01/welcome.html
+        url: https://ryub.github.io/2018/07/01/welcome.html
       - title: Post with Header Image
-        url: https://javaboy666.github.io/2018/06/01/header-image.html
-      - title:  Java 搭建 SSM
-        url:    http://springboot.javaboy.org/2019/0528/javassm
+        url: https://ryub.github.io/2018/06/01/header-image.html
+     
