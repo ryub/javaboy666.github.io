@@ -51,8 +51,11 @@ header:
 docs-zh:
   - title:      导航
     children:
+      - title: Home
+        url: https://ryub.github.io
       - title: Welcome
         url: https://ryub.github.io/2018/07/01/welcome.html
       - title: Post with Header Image
         url: https://ryub.github.io/2018/06/01/header-image.html
+        
      
