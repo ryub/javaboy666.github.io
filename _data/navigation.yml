@@ -49,7 +49,7 @@ header:
       # @end locale config
     url: /about.html
 docs-zh:
-  - title:      导航
+  - title: Navigation Bar
     children:
       - title: Home
         url: https://ryub.github.io
